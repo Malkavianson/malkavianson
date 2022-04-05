@@ -6,7 +6,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest/)
 
 [![Estatísticas de MalkavianSon](https://github-readme-stats.vercel.app/api?username=Malkavianson&hide=stars&count_private=true&show_icons=true&theme=jolly&hide_rank=true&cache_seconds=2000)](https://github.com/malkavianson/github-readme-stats&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&&langs_count=6)](https://github.com/Malkavianson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&langs_count=6)](https://github.com/Malkavianson/github-readme-stats)
 
 ### Principais tecnologias utilizadas
 <div style="display: inline_block">
