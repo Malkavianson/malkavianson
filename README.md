@@ -1,23 +1,12 @@
 
 
-## Alexandre Pereira || MalkavianSon 🧛🌈🦄
+### Alexandre Pereira || MalkavianSon 🧛🌈🦄
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MalkavianSon)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest/)
 
-##
-
-<div style="display: inline_block">
-  <img align="center" alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-</div>
-
-- ### Pai da Πανδώρα 
-- ### ENTJ-A
-- ### Defensor do progresso e da ciência
-- ### Apaixonado por games, antropologia ,algorítmos, filosofia e bichinhos 🐈 🐕 🐴
-- ### Mestre de RPG e Narrador de Vampiro - A Máscara
-
-##
+[![Estatísticas de MalkavianSon](https://github-readme-stats.vercel.app/api?username=Malkavianson&hide=stars&count_private=true&show_icons=true&theme=jolly&hide_rank=true&cache_seconds=2000)](https://github.com/malkavianson/github-readme-stats&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&&langs_count=6)](https://github.com/Malkavianson/github-readme-stats)
 
 ### Principais tecnologias utilizadas
 <div style="display: inline_block">
@@ -29,5 +18,11 @@
 
 ##
 
-[![Estatísticas de MalkavianSon](https://github-readme-stats.vercel.app/api?username=Malkavianson&hide=stars&count_private=true&show_icons=true&theme=jolly&hide_rank=true)](https://github.com/malkavianson/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly)](https://github.com/Malkavianson/github-readme-stats)
+# [![pandora](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://scontent.fbhz1-2.fna.fbcdn.net/v/t39.30808-6/277999683_2545950552202995_8411866977418401668_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHMD0XOvs7KAqwuLTFwQX3mb4Ch4YoDniVvgKHhigOeJaB9PAfWxuBBoSrbXUzILWuh-DFNkS0zdVtS-LLGUmiN&_nc_ohc=gbzDHK0qpgYAX_K6kfl&_nc_zt=23&_nc_ht=scontent.fbhz1-2.fna&oh=00_AT8YG5sb2GWcByXHbStAG7E9O5PgEp8lVhRjb9YfPEnNGA&oe=62514D24) [Πανδώρα](https://scontent.fbhz1-2.fna.fbcdn.net/v/t39.30808-6/277999683_2545950552202995_8411866977418401668_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHMD0XOvs7KAqwuLTFwQX3mb4Ch4YoDniVvgKHhigOeJaB9PAfWxuBBoSrbXUzILWuh-DFNkS0zdVtS-LLGUmiN&_nc_ohc=gbzDHK0qpgYAX_K6kfl&_nc_zt=23&_nc_ht=scontent.fbhz1-2.fna&oh=00_AT8YG5sb2GWcByXHbStAG7E9O5PgEp8lVhRjb9YfPEnNGA&oe=62514D24) 
+
+- ### ENTJ-A
+- ### Defensor do progresso e da ciência
+- ### Apaixonado por games, antropologia ,algorítmos, filosofia e bichinhos 🐈 🐕 🐴
+- ### Mestre de RPG e Narrador de Vampiro - A Máscara
+
+##
