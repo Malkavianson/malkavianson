@@ -16,6 +16,7 @@
 <div style="display: inline_block">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=190321" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&color=190321&logoColor=green" />
+  <img align="center" alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&color=190321&logoColor=%2361DAFB" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=190321&logoColor=cyan" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=fuchsia&color=190321" />
 </div>
