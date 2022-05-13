@@ -14,6 +14,7 @@
 
 ### Principais tecnologias utilizadas
 <div style="display: inline_block">
+  <img align="center" alt="NODEJS" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=190321&logoColor=cyan" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge&logo=html5&logoColor=fuchsia&color=190321" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=190321" />
@@ -22,7 +23,8 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge&color=190321" />
   <img align="center" alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge&color=190321" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&color=190321&logoColor=green" />
-  <img align="center" alt="NODEJS" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="NODEJS" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&color=190321" />
+
 </div>
 
 
