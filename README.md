@@ -1,9 +1,8 @@
-
-
 ### Alexandre Pereira || MalkavianSon 🧛🌈🦄
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MalkavianSon)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/alexandrespneto)
 
 <div style="width: inherit; display: flex; justify-content: space-evenly">
  <a href="https://github.com/Malkavianson">
