@@ -50,6 +50,7 @@
  
 - ### [eNygma.io 🎮](https://malkavianson.github.io/nygma/)
 - ### ENTJ-A
+- ### 7w6
 - ### Defensor do progresso e da ciência
 - ### Apaixonado por games, antropologia ,algorítmos, filosofia e bichinhos 🐈 🐕 🐴
 - ### Mestre de RPG e Narrador de Vampiro - A Máscara
