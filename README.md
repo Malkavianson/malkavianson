@@ -50,7 +50,7 @@
  
 - ### [eNygma.io 🎮](https://malkavianson.github.io/nygma/)
 - ### ENTJ-A
-- ### 7w6
+- ### <img align="center" alt="enneagram" width="25px" src="https://quadrantinternational.net/wp-content/uploads/2018/03/Enneagram-Symbol-EIBN-300x298.png" /> 7w6
 - ### Defensor do progresso e da ciência
 - ### Apaixonado por games, antropologia ,algorítmos, filosofia e bichinhos 🐈 🐕 🐴
 - ### Mestre de RPG e Narrador de Vampiro - A Máscara
