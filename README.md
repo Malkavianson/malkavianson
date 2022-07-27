@@ -6,7 +6,6 @@
 
 <div style="width: inherit; display: flex; justify-content: space-evenly">
  <a href="https://github.com/Malkavianson">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malkavianson&hide=stars&count_private=true&show_icons=true&theme=jolly&hide_rank=true&cache_seconds=2000&include_all_commits=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&langs_count=6"/>
 </div>
 
