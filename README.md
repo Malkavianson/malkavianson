@@ -47,7 +47,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&langs_count=6"/>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); grid-column-gap: 1rem; grid-row-gap: 0.5rem; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-column-gap: 1rem; grid-row-gap: 0.5rem; justify-items: center;">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
