@@ -38,7 +38,7 @@
 
 
 
-### I already worked with this 😊:
+### I already worked with all this 👇🏻😊:
 ~~tomorrow this list can be updated, come here to check~~
 
 ###
