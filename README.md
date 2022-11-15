@@ -140,14 +140,14 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-column-gap: 1rem; grid-row-gap: 0.5rem; justify-items: center;">
   <img align="center" alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />  
-  <img align="center" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> 
+  <img align="center" alt="MS_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />  
   <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=717171" />
 </div>
 
 ###
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-column-gap: 1rem; grid-row-gap: 0.5rem; justify-items: center;">
-  <img align="center" alt="MS_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />  
+  <img align="center" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> 
   <img align="center" alt="ESLINT" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  </div>
