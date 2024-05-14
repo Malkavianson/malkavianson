@@ -6,7 +6,7 @@
 
 > ###### _There might be new technology, but technological progress itself was nothing new - and over the years it had not destroyed jobs, but created them._ - __Margaret Thatcher__
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malkavianson&layout=compact&theme=jolly&cache_seconds=2000&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true"/>
 
 ##
 
