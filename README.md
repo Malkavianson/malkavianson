@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/alexandrespneto)
 
-> ###### \_There might be new technology, but technological progress itself was nothing new - and over the years it had not destroyed jobs, but created them.\_ - \_\_Margaret Thatcher\_\_
+> ###### There might be new technology, but technological progress itself was nothing new, and over the years it had not destroyed jobs, but created them. 
+> _Margaret Thatcher_
 
 ### Quem sou:
 
